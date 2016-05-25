@@ -1,0 +1,4 @@
+org\krams\tutorial\domain\Person.class
+org\krams\tutorial\service\PersonService.class
+org\krams\tutorial\domain\PersonList.class
+org\krams\tutorial\controller\RestProviderController.class

@@ -1,0 +1,3 @@
+com\restful\client\controller\ClientController.class
+com\restful\client\domain\EmployeeList.class
+com\restful\client\domain\Employee.class

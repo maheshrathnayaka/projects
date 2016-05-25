@@ -1,0 +1,5 @@
+com\rigor\hello\model\Customer.class
+com\rigor\hello\controller\HelloController.class
+com\rigor\hello\App.class
+com\rigor\hello\controller\CustomerController.class
+com\rigor\hello\exception\CustomerNotFoundException.class
